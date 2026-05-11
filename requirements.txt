@@ -1,0 +1,7 @@
+scikit-learn==1.5.2
+faiss-cpu==1.8.0
+numpy==1.26.4
+pypdf==4.3.1
+python-docx==1.1.2
+flask==3.0.3
+pandas==2.2.2
