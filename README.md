@@ -76,15 +76,6 @@ http://localhost:5000
 - TXT
 - DOCX
 
-## Example Questions
-
-```text
-What is the main contribution of the paper?
-Who are the authors?
-Summarize the document.
-Explain the methodology.
-```
-
 ## Future Improvements
 
 - Vector database support
